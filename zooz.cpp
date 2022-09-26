@@ -1,4 +1,4 @@
-//code chef
+//code chef problem of zooz rating 1009
 #include<iostream>
 using namespace std;
 int main(){
